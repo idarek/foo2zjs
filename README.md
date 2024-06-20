@@ -48,7 +48,7 @@ cd foo2zjs
 sudo make clean
 sudo make uninstall
 make
-sudo make instsll
+sudo make install
 sudo make cups
 ```
 
